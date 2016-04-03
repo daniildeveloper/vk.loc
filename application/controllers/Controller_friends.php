@@ -6,6 +6,6 @@ class Controller_friends extends Controller
 
     function action_index()
     {
-        
+        //
     }
 }
