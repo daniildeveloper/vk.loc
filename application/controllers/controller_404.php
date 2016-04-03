@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Lama
- * Date: 16.03.2016
- * Time: 18:12
- */
 class Controller_404 extends Controller{
     function action_index()
     {

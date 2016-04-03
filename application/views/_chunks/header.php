@@ -10,7 +10,7 @@
     <ul class="nav navbar-nav">
         <li><a href="<?php echo "http://" . $_SERVER['HTTP_HOST'] . '/' ?>">Nav item main page</a></li>
         <li><a href="<?php echo "http://" . $_SERVER['HTTP_HOST'] . '/404' ?>">Nav item 404</a></li>
-        <li><a href="#">Nav item 3</a></li>
+        <li><a href="<?php echo "http://" . $_SERVER['HTTP_HOST'] . '/user' ?>">Nav item User</a></li>
         <li><a href="#">Nav item 4</a></li>
         <li><a href="#">Nav item 5</a></li>
     </ul>
